@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    
+    let query = "SELECT * FROM tb_dados";
 }
