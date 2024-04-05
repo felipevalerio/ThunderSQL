@@ -1,5 +1,9 @@
-// tarefa 1 - identificar os elementos de uma query
+// tarefa 1 - identificar os elementos de uma query (tokenization)
 // tarefa 2 - depois de identificados, criar uma AST Tree
+
+pub enum Token {
+    
+}
 
 fn main() {
     
